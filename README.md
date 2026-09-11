@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Analytics Engineer who enjoys coming up with solutions to complex Problems and collaboration. I enjoy working with Data and I am ruthlessly efficient at what I do.
+Analytics Engineer who enjoys developing solutions to complex Problems. I enjoy working with Data and I am ruthlessly efficient at what I do.
 
 🔭 &nbsp;I'm currently working on **A Mental Health App built with Small Language Models.**  
 🌱 &nbsp;I'm currently learning **Rust and Distributed Systems**  
